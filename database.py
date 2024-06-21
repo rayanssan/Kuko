@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - database.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import sqlite3
 import time, json
 from os.path import isfile
