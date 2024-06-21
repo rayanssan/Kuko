@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - kuko_stub.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 from kuko_data import *
 from kuko_skel import *
 from kazoo.client import KazooClient
