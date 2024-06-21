@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - kuko_client.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import sys, json
 from net_client import *
 from kazoo.client import KazooClient
