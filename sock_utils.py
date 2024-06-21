@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - sock_utils.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import socket as s, sys
 
 def create_tcp_server_socket(address: str, port: int) -> s.socket:
