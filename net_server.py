@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - net_server.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import socket as s, ssl
 from sock_utils import *
 
