@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - kuko_data.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import time, copy, json, sqlite3
 from database import connect_db
 from itertools import count
