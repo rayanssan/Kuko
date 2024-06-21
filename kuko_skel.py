@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - kuko_skel.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import pickle, struct, socket as s
 from net_server import *
 from sock_utils import receive_all
