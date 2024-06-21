@@ -1,9 +1,3 @@
-"""
-Aplicações Distribuídas - Projeto 3 - kuko_server.py
-Grupo: 01
-Números de aluno: 60282
-"""
-
 import sys, select
 from net_server import *
 from kuko_data import *
