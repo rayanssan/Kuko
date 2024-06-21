@@ -12,7 +12,7 @@ https://www.apache.org/dyn/closer.lua/zookeeper/zookeeper-3.8.4/apache-zookeeper
 - Then, the application server script must be executed, through the command:<br>
 `$ python3 kuko_server.py [host] [port]`
 
-- After this, several clients can use the application in the terminal through the command:<br>
+- After this, any clients can use the application in the terminal through the command:<br>
 `$ python3 kuko_client.py [id_participant] [host] [port]`
 
 - To serve the application in Flask, the following script must be executed through the command:<br>
