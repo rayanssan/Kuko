@@ -66,3 +66,6 @@ This extension needs to be installed separately from the Flask framework with th
 `$ pip install -U flask-cors`
 - The Apache Zookeeper client always uses host 127.0.0.1 and port 2181. 
 - RSA keys for SSL certificates have a size of 2048 bits.
+
+<strong>Developed By:</strong><br>
+Rayan S. Santana
