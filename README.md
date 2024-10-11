@@ -1,6 +1,6 @@
 <h1>${\textsf{\color{purple}Kuko}}$</h1>
 
-Kuko is a web service that works with Apache Zookeeper. It enables users to create and manage interactive quizzes via terminal commands or with POST/GET requests.
+<strong>Kuko</strong> is a web service that works with Apache Zookeeper. It enables users to create and manage interactive quizzes via direct terminal commands or with POST/GET requests.
 
 <strong>1 - How to execute the application:</strong>
 
